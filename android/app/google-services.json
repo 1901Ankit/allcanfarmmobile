@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1094340384539",
+    "project_id": "allcanfarm-3d30b",
+    "storage_bucket": "allcanfarm-3d30b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094340384539:android:00f2c51f42b948bdb365be",
+        "android_client_info": {
+          "package_name": "com.example.allcanfarmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094340384539-iel3u5u57bud0nvbt36afc0adgdvdobj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allcanfarmapp",
+            "certificate_hash": "d1568095513fd69858951e146a37cd36790c033e"
+          }
+        },
+        {
+          "client_id": "1094340384539-k8bj8s82obcbf5jg62tijel21vhhh49q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBccFxFAq8Q-rEFK1byv-gJssowYzjbsr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094340384539-k8bj8s82obcbf5jg62tijel21vhhh49q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
